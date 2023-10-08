@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    font-size: 30px;
+    color: steelblue;
+}
+
+.active-member,.follower-img{
+    height: 120px;
+    width: 120px;
+}
+.card{
+margin-top: 20px;
+}
